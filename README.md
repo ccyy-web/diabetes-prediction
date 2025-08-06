@@ -4,7 +4,7 @@ This project uses the PIMA Indian Diabetes dataset to predict whether a patient 
 
 ## Dataset
 
-- Public dataset with 768 samples and 8 clinical features.
+- Public dataset with 768 samples and 8 clinical features.(https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - Includes features like glucose, BMI, age, blood pressure, etc.
 
 ## Exploratory Data Analysis (EDA)
@@ -42,5 +42,6 @@ This project uses the PIMA Indian Diabetes dataset to predict whether a patient 
 - scikit-learn, xgboost
 
 ## Author
+
 
 - C
